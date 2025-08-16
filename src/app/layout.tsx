@@ -26,8 +26,8 @@ export default function RootLayout({
   return (
     <html lang="ry">
       <head>
-        <Script src="https://cdn.jsdelivr.net/gh/aframevr/aframe@1.6.0/dist/aframe-master.min.js"></Script>
-        <Script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></Script>
+        <Script src="/js/aframe-master.min.js"></Script>
+        <Script src="/js/aframe-ar-nft.js"></Script>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
