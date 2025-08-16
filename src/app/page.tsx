@@ -21,7 +21,7 @@ export default function Home() {
       smoothThreshold="5"
     >
       <a-entity
-        gltf-model="https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/scene.gltf"
+        gltf-model="https://ar-js-org.github.io/.github/profile/aframe/examples/image-tracking/nft/trex/scene.gltf"
         scale="5 5 5"
         position="150 300 -100"
       >
